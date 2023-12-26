@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// in stack we have push , pop , top
+// in queue we have push , pop , back, front
 int main(){
  queue<int> q ;
  q.push(8);
